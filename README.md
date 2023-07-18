@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### Projects done with a small team
 <!--
 **zsonnen/zsonnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[E-Commerce Project Repo](https://github.com/https-github-com-graceshopper-honeydew/graceshopper) <br />
+[Peer-to-peer RideSharing App Repo](https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)
 
 ## 🛠 Languages and Tools:
 
